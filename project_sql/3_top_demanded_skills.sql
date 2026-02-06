@@ -22,3 +22,4 @@ ORDER BY
     demand_count DESC
 LIMIT 5
 
+![skills in demand](assets\q3.png)
